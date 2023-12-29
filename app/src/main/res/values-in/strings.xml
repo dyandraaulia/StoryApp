@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="SignIn">Sign In</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Masukkan alamat email...</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Masukkan password…</string>
+    <string name="password_error">Password harus memiliki minimal 8 karakter.</string>
+    <string name="email_pattern">[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+</string>
+    <string name="email_error">Alamat email tidak sesuai format.</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="switchToSignUp">Belum memiliki akun?</string>
+    <string name="switchToSignIn">Sudah punya akun?</string>
+    <string name="sign_up_success">Sign up sukses</string>
+    <string name="sign_in_success">Sign in sukses</string>
+    <string name="logout">Logout</string>
+    <string name="description">Ini adalah deskripsi</string>
+    <string name="tanggal">22 October</string>
+    <string name="share_message">\"%1$s...\" \nBaca cerita %2$s selengkapnya hanya di Story App.</string>
+    <string name="location">Jakarta, Indonesia</string>
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="next">Selanjutnya</string>
+    <string name="retake">Ambil Ulang</string>
+    <string name="description_title">Deskripsi</string>
+    <string name="description_hint">Tulis deskripsimu di sini...</string>
+    <string name="submitPost">Unggah</string>
+    <string name="set_language">Ubah Bahasa</string>
+    <string name="img_story">imgStory</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="empty_item">Tidak Ada Cerita</string>
+    <string name="img_desc">Gambar cerita untuk diunggah.</string>
+    <string name="logout_success">Berhasil logout</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="add_location">Tambahkan lokasi Anda saat ini.</string>
+    <string name="rejected_permission">Perizinan ditolak</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="permission_request_granted">Perizinan diterima</string>
+    <string name="data_is_empty">Tidak ada cerita</string>
+    <string name="response_data_is_empty">Response data is empty</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#6E8175</color>
+    <color name="primary_darker">#344038</color>
+    <color name="primary_80">#CB6E8175</color>
+    <color name="input_text">#F2F2F2</color>
+    <color name="background_light">#EAEAEA</color>
+    <color name="transparent">#00000000</color>
+    <color name="fab_color">#C6D3CF</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="signin_success">#4CAF50</color>
+    <color name="error_color">#F44336</color>
+</resources>
