@@ -85,11 +85,11 @@ class MainActivity : AppCompatActivity() {
 
         binding.swipeRefreshLayout.setOnRefreshListener {
             adapter.refresh()
+            layoutManager.scrollToPosition(0)
         }
 
         mainViewModel.stories.observe(this) {
             adapter.submitData(lifecycle, it)
-            layoutManager.scrollToPosition(0)
 
             showLoading(false)
             binding.swipeRefreshLayout.isRefreshing = false
